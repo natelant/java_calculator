@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        String s1 = getInput("Enter a numeric value: ");
-        String s2 = getInput("Enter a numeric value: ");
-        String op = getInput("Choose an operation (+ - * /): ");
+        String s1 = getInput("Enter an awesome value: ");
+        String s2 = getInput("Enter an even cooler value: ");
+        String op = getInput("Choose your operator weapon: (+ - * /): ");
 
         double result = 0;
 
